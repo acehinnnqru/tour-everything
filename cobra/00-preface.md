@@ -1,3 +1,7 @@
+---
+title: preface
+---
+
 # Diving into Cobra
 
 ## Preface
