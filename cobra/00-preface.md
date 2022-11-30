@@ -1,5 +1,5 @@
 ---
-title: preface
+title: "00: preface"
 ---
 
 # Diving into Cobra
