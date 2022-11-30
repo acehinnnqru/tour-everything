@@ -1,5 +1,6 @@
 ---
 title: "00: preface"
+summary: peek the files of Cobra
 ---
 
 # Diving into Cobra
