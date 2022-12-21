@@ -19,6 +19,8 @@ As a gopher, you must have hear the command line library *Cobra*.
 
 *Cobra*, which is the most popular cli lib of golang, got over 29k stars in GitHub. 
 
+You can view it in detail through its github repository: [spf13/cobra](https://github.com/spf13/cobra).
+
 ## Structure
 
 First, we determine the structure of *Cobra*.
